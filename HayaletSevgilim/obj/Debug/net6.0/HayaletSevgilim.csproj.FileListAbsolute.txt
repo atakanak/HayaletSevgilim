@@ -1,0 +1,15 @@
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/bin/Debug/net6.0/HayaletSevgilim
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/bin/Debug/net6.0/HayaletSevgilim.deps.json
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/bin/Debug/net6.0/HayaletSevgilim.runtimeconfig.json
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/bin/Debug/net6.0/HayaletSevgilim.dll
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/bin/Debug/net6.0/HayaletSevgilim.pdb
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.csproj.AssemblyReference.cache
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.AssemblyInfoInputs.cache
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.AssemblyInfo.cs
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.csproj.CoreCompileInputs.cache
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.dll
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/refint/HayaletSevgilim.dll
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.pdb
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/HayaletSevgilim.genruntimeconfig.cache
+/Users/atakanak/Desktop/free/c#/HayaletSevgilim/HayaletSevgilim/obj/Debug/net6.0/ref/HayaletSevgilim.dll

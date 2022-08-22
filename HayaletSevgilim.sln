@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HayaletSevgilim", "HayaletSevgilim\HayaletSevgilim.csproj", "{665C7E51-D59F-49A8-B84E-710D3C016F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665C7E51-D59F-49A8-B84E-710D3C016F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665C7E51-D59F-49A8-B84E-710D3C016F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665C7E51-D59F-49A8-B84E-710D3C016F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665C7E51-D59F-49A8-B84E-710D3C016F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
